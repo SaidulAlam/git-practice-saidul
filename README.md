@@ -15,3 +15,8 @@ This is a simple Git and GitHub practice project. It demonstrates repository cre
 - Branch merging
 - Calculator functions
 - GitHub remote push
+
+## How to Run
+
+```bash
+python src/main.py
